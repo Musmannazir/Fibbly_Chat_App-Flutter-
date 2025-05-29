@@ -41,48 +41,22 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAdrP6RN_7FeolgEsC7U7QP2dhKEEMMiGE',
-    appId: '1:121751141991:web:caf3122eeeb9e292515ec2',
-    messagingSenderId: '121751141991',
-    projectId: 'fibbly-82d0d',
-    authDomain: 'fibbly-82d0d.firebaseapp.com',
-    storageBucket: 'fibbly-82d0d.firebasestorage.app',
-    measurementId: 'G-D4W7JB4KYT',
+...................
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCRFLmK2m--VfpKAx76mZqVuG4n_VJS6no',
-    appId: '1:121751141991:android:074b84622d397f5e515ec2',
-    messagingSenderId: '121751141991',
-    projectId: 'fibbly-82d0d',
-    storageBucket: 'fibbly-82d0d.firebasestorage.app',
+..........................
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAvmpDCrZ9rC8G3y2YDRhXouxsWQq2TamI',
-    appId: '1:121751141991:ios:5c70f1fa43a610d5515ec2',
-    messagingSenderId: '121751141991',
-    projectId: 'fibbly-82d0d',
-    storageBucket: 'fibbly-82d0d.firebasestorage.app',
-    iosBundleId: 'com.example.fibbly',
+...................
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAvmpDCrZ9rC8G3y2YDRhXouxsWQq2TamI',
-    appId: '1:121751141991:ios:5c70f1fa43a610d5515ec2',
-    messagingSenderId: '121751141991',
-    projectId: 'fibbly-82d0d',
-    storageBucket: 'fibbly-82d0d.firebasestorage.app',
-    iosBundleId: 'com.example.fibbly',
+.......................
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAdrP6RN_7FeolgEsC7U7QP2dhKEEMMiGE',
-    appId: '1:121751141991:web:cb756ca9812874f5515ec2',
-    messagingSenderId: '121751141991',
-    projectId: 'fibbly-82d0d',
-    authDomain: 'fibbly-82d0d.firebaseapp.com',
-    storageBucket: 'fibbly-82d0d.firebasestorage.app',
-    measurementId: 'G-ZFES9YGRHF',
+..................
   );
 }
